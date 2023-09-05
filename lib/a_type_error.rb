@@ -1,3 +1,4 @@
+x= 1
 1 + 1
 
-1 + "is the loneliest number"
+x.to_s +  "is the loneliest number"
